@@ -14,11 +14,27 @@
 
 ---
 
-## 🛑 The Problem: "Frozen Capital"
-Indian exporters lose up to **10% of their script value** due to a fragmented, opaque, and manual secondary market for Duty Credit Scrips. 
-* 📉 **No Centralized Hub:** Trading relies on WhatsApp groups and offline brokers.
-* 💸 **High Fees:** Brokers charge 3-5% commissions.
-* ⚠️ **Security Risks:** High chance of "double-selling" and script fraud.
+## 🌐 Market Context: What are EXIM Scrips?
+
+Before solving the problem, we must understand the asset class. **Duty Credit Scrips (RoDTEP/ROSCTL)** are government-issued rewards for exporters.
+
+| Feature | Description |
+| :--- | :--- |
+| **The Asset** | Digital certificates representing a specific monetary value. |
+| **The Utility** | Used to pay 100% of basic customs duty on imports. |
+| **The Trade** | Exporters (who don't import) sell these to Importers for cash. |
+| **The Status Quo** | Currently traded via brokers in a highly fragmented secondary market. |
+
+---
+
+## 🛑 The Problem: Structural Inefficiency
+
+> "Despite the high value of these credits, the trading process is fundamentally broken:"
+
+* **Fragmented Trade**: There is no central "Exchange." Finding a buyer or seller is a manual, "who-you-know" process.
+* **Capital Erosion**: Because the market is opaque, exporters often lose up to **10% of their scrip value** to high brokerage fees and deep discounts.
+* **Verification Gap**: There is no real-time way for a buyer to know if a scrip is valid or has already been used, leading to significant **fraud and double-selling**.
+* **High Barrier to Entry**: Small-scale exporters struggle to find fair prices, leaving their capital "frozen" in unused credits.
 
 ## 💡 Our Solution
 **ScripTradeX** is a secure B2B digital exchange. We replace manual brokers with a centralized matching engine and an automated escrow system.
