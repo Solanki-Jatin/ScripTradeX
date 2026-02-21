@@ -51,6 +51,22 @@ This MVP is built for rapid deployment and robust logic demonstration:
 
 ---
 
+## 📂 Project Structure
+
+```text
+ScripTradeX_MVP/
+│
+├── app.py              # Main Flask Backend (API & Escrow Logic)
+├── init_db.py          # Database Setup (Pseudo-Govt Registry)
+├── scriptradex.db      # SQLite Database (Created after init)
+├── requirements.txt    # Project Dependencies
+│
+└── templates/          # Frontend UI (Bootstrap 5)
+    ├── login.html      # Authentication Page
+    └── dashboard.html  # Seller & Buyer Dashboards
+```
+---
+
 ## 🚀 Getting Started (Run Locally)
 
 Follow these steps to run the ScripTradeX MVP on your local machine:
