@@ -15,17 +15,17 @@
 ---
 
 ## 🛑 The Problem: "Frozen Capital"
-[cite_start]Indian exporters lose up to **10% of their script value** due to a fragmented, opaque, and manual secondary market for Duty Credit Scrips[cite: 32]. 
-* [cite_start]📉 **No Centralized Hub:** Trading relies on WhatsApp groups and offline brokers[cite: 35].
-* [cite_start]💸 **High Fees:** Brokers charge 3-5% commissions[cite: 49].
-* [cite_start]⚠️ **Security Risks:** High chance of "double-selling" and script fraud[cite: 54].
+Indian exporters lose up to **10% of their script value** due to a fragmented, opaque, and manual secondary market for Duty Credit Scrips. 
+* 📉 **No Centralized Hub:** Trading relies on WhatsApp groups and offline brokers.
+* 💸 **High Fees:** Brokers charge 3-5% commissions.
+* ⚠️ **Security Risks:** High chance of "double-selling" and script fraud.
 
 ## 💡 Our Solution
-[cite_start]**ScripTradeX** is a secure B2B digital exchange[cite: 51]. [cite_start]We replace manual brokers with a centralized matching engine and an automated escrow system[cite: 52].
+**ScripTradeX** is a secure B2B digital exchange. We replace manual brokers with a centralized matching engine and an automated escrow system.
 * 🔐 **API Verification:** Pings government portals (Pseudo-ICEGATE) to verify script validity *before* listing.
 * ⚡ **Instant Matching:** Buyers and sellers are matched instantly based on required credit amounts and discount rates.
 * 🛡️ **Digital Escrow:** Payment is held securely until delivery is verified, ensuring zero fraud.
-* [cite_start]💰 **Cost Efficiency:** A flat **1% transaction fee**, maximizing savings[cite: 55].
+* 💰 **Cost Efficiency:** A flat **1% transaction fee**, maximizing savings.
 
 ---
 
@@ -35,7 +35,7 @@
 
 | 🧑‍💼 Exporter (Seller) Flow | 🏢 Importer (Buyer) Flow |
 | :--- | :--- |
-| **1. [cite_start]Verify:** Enters Scrip ID (e.g., RoDTEP)[cite: 51]. | **1. Discover:** Browses verified matches on the marketplace. |
+| **1. Verify:** Enters Scrip ID (e.g., RoDTEP). | **1. Discover:** Browses verified matches on the marketplace. |
 | **2. List:** System validates via Govt API and lists the offer. | **2. Lock:** Clicks "Buy", moving funds into the secure Escrow. |
 | **3. Transfer:** Transfers credit on Govt Portal. | **3. Verify:** System performs a re-check of validity. |
 | **4. Settle:** Receives instant payout. | **4. Receive:** Gains the credit for duty relaxation. |
